@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Introduction"
-subtitle: "An overview of how the <strong>Web</strong> works"
+subtitle: "An overview of how <strong>consulting</strong> works"
 section: web
 ---
 
